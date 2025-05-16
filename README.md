@@ -36,7 +36,7 @@ python ceo_birthday_todo.py
 ## 🗂️ Project Structure
 
 ```
-todo_list/
+to_do_list/
 ├── script/
 │   └── ceo_birthday_todo.py
 └── README.md
