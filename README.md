@@ -1,25 +1,25 @@
 
-# 🎉 CEO Birthday Party To-Do List Manager 📝
+# CEO Birthday Party To-Do List Manager
 
 A Python-based Command-Line To-Do List Manager designed to plan and execute a memorable birthday celebration for the CEO's office party.
 
 ---
 
-## 📝 About This Project
+## About This Project
 
 This CLI tool helps event planners, office managers, or executive assistants:
 
-- ✅ Track **Drinks**, **Foods**, **Games**, **Music**, **Location**, and **Gifts**.
-- ✅ **Mark tasks as completed** when done.
-- ✅ **Add new custom tasks** as needed.
-- ✅ **Delete tasks** that are no longer relevant.
-- ✅ **Review completed tasks** to ensure nothing is missed.
+- Track **Drinks**, **Foods**, **Games**, **Music**, **Location**, and **Gifts**.
+- **Mark tasks as completed** when done.
+- **Add new custom tasks** as needed.
+- **Delete tasks** that are no longer relevant.
+- **Review completed tasks** to ensure nothing is missed.
 
 This project was created as part of my **Python Practice Portfolio** to demonstrate CLI application development and Python data structure manipulation.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone or Download** this repository.
 2. Make sure you have Python 3.x installed.
@@ -33,7 +33,7 @@ python ceo_birthday_todo.py
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 to_do_list/
@@ -44,7 +44,7 @@ to_do_list/
 
 ---
 
-## 🎯 Features
+## Features
 
 - View categorized to-do items with real-time status icons.
 - Mark tasks as completed with confirmation messages.
@@ -53,7 +53,7 @@ to_do_list/
 
 ---
 
-## 📌 Example Use Cases
+## Example Use Cases
 
 - Executive Assistant task tracking
 - Office Event Planning
@@ -61,7 +61,7 @@ to_do_list/
 
 ---
 
-## 👨🏽‍💻 Author
+## Author
 
 **Kent Ward**  
 [GitHub Profile](https://github.com/Kent-Ward)  
@@ -70,7 +70,7 @@ to_do_list/
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use for educational or personal purposes.
 
